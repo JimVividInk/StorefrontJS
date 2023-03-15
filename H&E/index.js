@@ -124,3 +124,4 @@ function renderDropDown() {
 }
 $(".TreeControl").css("display", "none");
 if (window.location.pathname.includes("catalog")) setTimeout(renderDropDown, 50);
+alert("Hey");
